@@ -1,0 +1,6 @@
+@Hellonet8_HostAddress = http://localhost:5199
+
+GET {{Hellonet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
